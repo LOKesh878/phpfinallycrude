@@ -1,0 +1,10 @@
+table.table, td,th,tr {
+    border: 1px solid black;
+    overflow: hidden;
+    width: 100%;
+    text-wrap: wrap;
+    height: 90%;
+}
+tr:nth-child(odd) {
+    background-color: #ccc;
+}

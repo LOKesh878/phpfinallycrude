@@ -1,0 +1,24 @@
+.container.mt-5 {
+    background: darkgrey;
+    color: white;
+    width: 400px;
+    border-radius: 1px;
+    /* margin: 0; */
+    margin-left: 60px;
+    margin-top: 30px;
+    font-size: smaller;
+    font-weight: 700;
+}
+button.btn.btn-primary {
+    margin: 5px;
+    width: 70px;
+    padding: 5px;
+    font-size: large;
+    font-weight: 700;
+}
+input#filetoupload {
+    border: none;
+    margin-top: 10px;
+    background-color: darkblue;
+    border-radius: 34px;
+}
